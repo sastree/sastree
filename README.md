@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="text.gif">
+  <img src="https://raw.githubusercontent.com/Sergiioog/Sergiioog/main/text.gif">
 </div>
 
 # 🧍Info:
