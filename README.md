@@ -2,7 +2,7 @@
   <img src="text.gif">
 </div>
 
-# 💫 About Me:
+# Info:
 👨‍💻 Hi! My name is Alejandro Sastre<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
