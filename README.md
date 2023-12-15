@@ -3,13 +3,13 @@
 </div>
 
 # 💫 About Me:
-👨‍💻 Hi! My name is Sergio García<br>
+👨‍💻 Hi! My name is Alejandro Sastre<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
 👀 Check my starred repositories to see them filtered by programming langugage<br>
 📃 Look my Curriculum -> [curriculum](https://github.com)<br>
 ✅ My portfolio -> [port](https://github.com)<br>
-📩 Contact me at => sergiogargor9@gmail.com
+📩 Contact me at => sastre212324@gmail.com
 
 
 # 🌐 Social Networks:
@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sastree&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=Sergiioog&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sastree&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   
