@@ -2,7 +2,7 @@
 👨‍💻 Hi! My name is Alejandro Sastre<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
 💬 Ask me about HTML, CSS, JS, Node, Angular...<br>
-👀 Check my starred repositories to see them filtered by programming langugage<br>
+👀 Check my starred repositories to see them filtered by programming language<br>
 📃 Look my Curriculum -> [curriculum](https://github.com)<br>
 ✅ My portfolio -> [port](https://github.com)<br>
 📩 Contact me at => sastre212324@gmail.com
