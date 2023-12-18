@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="">
-</div>
-
 # 🧍Info:
 👨‍💻 Hi! My name is Alejandro Sastre<br>
 👤 Currently, I´m studying to become a FrontEnd Dev<br>
