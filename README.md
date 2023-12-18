@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sergiioog/Sergiioog/main/text.gif">
+  <img src="https://media.tenor.com/5bZSQjZwOmYAAAAC/bienvenida-a-mi-perfil-welcome-to-my-profile.gif">
 </div>
 
 # 🧍Info:
