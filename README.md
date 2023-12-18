@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/5bZSQjZwOmYAAAAC/bienvenida-a-mi-perfil-welcome-to-my-profile.gif">
+  <img src="">
 </div>
 
 # 🧍Info:
